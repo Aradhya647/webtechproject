@@ -1,0 +1,179 @@
+#image{
+    padding: 0;
+    margin: 0;
+    background-image: url("../image/gutar.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+  nav{
+    
+    border: 1px solid black;
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+    word-spacing: 25px;
+    background-color: black;
+    position: fixed;
+width: 100vw;
+
+
+
+    
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 15px;
+    color: white;
+    padding-left: 20px;
+    
+}
+
+div h1{
+    text-align: center;
+    color: white;
+    padding: 100px;
+    font-family: sans-serif;
+
+    
+}
+div h2{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    
+}
+div h4{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+#music{
+    background-color: grey;
+    columns: white;
+    text-align: center;
+    padding: 2px;
+    font-size: xx-large;
+    
+}
+#music h1{
+    padding-bottom: 10px;
+    
+
+
+}
+#music p {
+    color: #ffffff;
+    font: 20.8px "PT Sans",sans-serif;
+    margin: 20.8px;
+}
+#music button {
+    padding: 20px;
+    background-color: hsl(0, 49%, 42%);
+    
+}
+#music button a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+#music h3{
+    color: white;
+}
+#music p{
+    line-height: 40px;
+}
+#demo{
+    text-align: center;
+    font-size: larger;
+}
+#demo button{
+    padding: 25px;
+    text-decoration: none;
+    background-color: rgb(1, 1, 32);
+    color: white;
+    text-align: center;
+    
+}
+#demo button a{
+    text-decoration: none;
+    color: white;
+    
+}
+#gift{
+    background-image: url("../image/light.jpg");
+    height: 90vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+}
+#gift h3{
+    line-height: 30px;
+    font-size: larger;
+    padding: 0px;
+}
+#gift h1 h3{
+    text-align: center;
+
+}
+#gift h1{
+    padding: 40px;
+}
+
+#dora main {
+    display: flex;
+    color: black;
+    
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+    
+    
+}
+#dora h2{
+    color: black;
+    text-align: left;
+}
+.text-secondary{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+#division{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    background-color: rgb(57, 51, 51);
+    border: 1px solid black;
+    padding: 50px;
+}
+#division h2{
+    color: #605555;
+}
+#division a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    gap: 80px;
+    
+}
+footer{
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
